@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gdi:home|Door43 (gdi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gdi|d43-gdi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gdi/archive/master.zip|d43-gdi.zip]]
+
+**Recent Changes**
+{{changes>ns = gdi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gdi|Ethnologue data]]
+
